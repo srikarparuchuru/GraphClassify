@@ -1,4 +1,4 @@
-# GraphClassify
+# PyWalk
 
 Creates a pyramid datastructure on top of an input graph .
 
